@@ -1,1 +1,2 @@
-This is a first file for first commit
+This is a first file for first commit -> git add and git commit has been done
+Updating to check git commit -a -m "updating gitlearning file"
